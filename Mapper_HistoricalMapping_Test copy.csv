@@ -1,0 +1,11 @@
+test.demo.birthDate,id,test.demo.email,test.demo.firstName,test.demo.astName,test.demo.optin_email,test.demo.optin_mobile,test.demo.optin_address,test.demo.pasta_preference
+1/12/01,1,person1@demo.adobe.com,Doreen,Cobler  ,in,in,out,lasagne
+1/11/03,2,person2@demo.adobe.com,Dawne,Hershman  ,out,out,out,rigatoni
+1/4/02,3,person3@demo.adobe.com,Leonie,Cantara  ,in,in,in,lasagne
+1/4/05,4,person4@demo.adobe.com,Elinor,Hilburn  ,out,out,out,rigatoni
+1/4/02,5,person5@demo.adobe.com,Cortney,Pastor  ,out,in,in,lasagne
+1/4/04,6,person6@demo.adobe.com,Mattie,Mchale  ,in,in,out,rigatoni
+1/4/02,7,person7@demo.adobe.com,Hester,Losey  ,out,out,in,lasagne
+1/4/09,8,person8@demo.adobe.com,Noella,Ester  ,in,in,out,rigatoni
+1/4/01,9,person9@demo.adobe.com,Malcom,Truesdell  ,in,out,in,lasagne
+1/4/04,111850,person10@demo.adobe.com0,Sammy,Butter,out,out,in,rigatoni
